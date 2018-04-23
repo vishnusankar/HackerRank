@@ -3,152 +3,87 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=2638&amp;EndingColumnNumber=54&amp;EndingLineNumber=80&amp;StartingColumnNumber=54&amp;StartingLineNumber=80&amp;Timestamp=540697765.447261"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=2597&amp;EndingColumnNumber=54&amp;EndingLineNumber=80&amp;StartingColumnNumber=54&amp;StartingLineNumber=80&amp;Timestamp=540698735.9670841"
          selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=2436&amp;EndingColumnNumber=6&amp;EndingLineNumber=70&amp;StartingColumnNumber=3&amp;StartingLineNumber=70&amp;Timestamp=540697765.447473"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=2395&amp;EndingColumnNumber=6&amp;EndingLineNumber=70&amp;StartingColumnNumber=3&amp;StartingLineNumber=70&amp;Timestamp=540698735.967325"
          selectedRepresentationIndex = "1"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=2365&amp;EndingColumnNumber=24&amp;EndingLineNumber=67&amp;StartingColumnNumber=9&amp;StartingLineNumber=67&amp;Timestamp=540697765.447649"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=2366&amp;EndingColumnNumber=24&amp;EndingLineNumber=68&amp;StartingColumnNumber=9&amp;StartingLineNumber=68&amp;Timestamp=540698735.967522"
          selectedRepresentationIndex = "1"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=276&amp;EndingColumnNumber=20&amp;EndingLineNumber=11&amp;StartingColumnNumber=13&amp;StartingLineNumber=11&amp;Timestamp=540697765.4478281"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=56&amp;CharacterRangeLoc=1289&amp;EndingColumnNumber=23&amp;EndingLineNumber=35&amp;StartingColumnNumber=0&amp;StartingLineNumber=34&amp;Timestamp=540698735.967756"
          selectedRepresentationIndex = "1"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=310&amp;EndingColumnNumber=21&amp;EndingLineNumber=12&amp;StartingColumnNumber=13&amp;StartingLineNumber=12&amp;Timestamp=540697765.447973"
-         selectedRepresentationIndex = "1"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=26&amp;CharacterRangeLoc=531&amp;EndingColumnNumber=0&amp;EndingLineNumber=19&amp;StartingColumnNumber=19&amp;StartingLineNumber=18&amp;Timestamp=540697765.44812"
-         selectedRepresentationIndex = "1"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=27&amp;CharacterRangeLoc=577&amp;EndingColumnNumber=0&amp;EndingLineNumber=20&amp;StartingColumnNumber=20&amp;StartingLineNumber=19&amp;Timestamp=540697765.448265"
-         selectedRepresentationIndex = "1"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=56&amp;CharacterRangeLoc=1289&amp;EndingColumnNumber=23&amp;EndingLineNumber=35&amp;StartingColumnNumber=0&amp;StartingLineNumber=34&amp;Timestamp=540697765.44841"
-         selectedRepresentationIndex = "1"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=70&amp;CharacterRangeLoc=2124&amp;EndingColumnNumber=35&amp;EndingLineNumber=58&amp;StartingColumnNumber=31&amp;StartingLineNumber=57&amp;Timestamp=540697765.448559"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=70&amp;CharacterRangeLoc=2124&amp;EndingColumnNumber=35&amp;EndingLineNumber=58&amp;StartingColumnNumber=31&amp;StartingLineNumber=57&amp;Timestamp=540698735.967984"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1082&amp;EndingColumnNumber=27&amp;EndingLineNumber=29&amp;StartingColumnNumber=18&amp;StartingLineNumber=29&amp;Timestamp=540697765.4487031"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1082&amp;EndingColumnNumber=27&amp;EndingLineNumber=29&amp;StartingColumnNumber=18&amp;StartingLineNumber=29&amp;Timestamp=540698735.968217"
          selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1024&amp;EndingColumnNumber=28&amp;EndingLineNumber=28&amp;StartingColumnNumber=18&amp;StartingLineNumber=28&amp;Timestamp=540697765.448846"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1024&amp;EndingColumnNumber=28&amp;EndingLineNumber=28&amp;StartingColumnNumber=18&amp;StartingLineNumber=28&amp;Timestamp=540698735.968448"
          selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=959&amp;EndingColumnNumber=32&amp;EndingLineNumber=27&amp;StartingColumnNumber=18&amp;StartingLineNumber=27&amp;Timestamp=540697765.4489909"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=959&amp;EndingColumnNumber=32&amp;EndingLineNumber=27&amp;StartingColumnNumber=18&amp;StartingLineNumber=27&amp;Timestamp=540698735.9686739"
          selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=1138&amp;EndingColumnNumber=23&amp;EndingLineNumber=30&amp;StartingColumnNumber=18&amp;StartingLineNumber=30&amp;Timestamp=540697765.449139"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=1138&amp;EndingColumnNumber=23&amp;EndingLineNumber=30&amp;StartingColumnNumber=18&amp;StartingLineNumber=30&amp;Timestamp=540698735.9689"
          selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1214&amp;EndingColumnNumber=27&amp;EndingLineNumber=32&amp;StartingColumnNumber=18&amp;StartingLineNumber=32&amp;Timestamp=540697765.449355"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1214&amp;EndingColumnNumber=27&amp;EndingLineNumber=32&amp;StartingColumnNumber=18&amp;StartingLineNumber=32&amp;Timestamp=540698735.9691271"
          selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=23&amp;CharacterRangeLoc=1237&amp;EndingColumnNumber=23&amp;EndingLineNumber=33&amp;StartingColumnNumber=0&amp;StartingLineNumber=33&amp;Timestamp=540697765.449508"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=23&amp;CharacterRangeLoc=1237&amp;EndingColumnNumber=23&amp;EndingLineNumber=33&amp;StartingColumnNumber=0&amp;StartingLineNumber=33&amp;Timestamp=540698735.969309"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=1311&amp;EndingColumnNumber=30&amp;EndingLineNumber=34&amp;StartingColumnNumber=22&amp;StartingLineNumber=34&amp;Timestamp=540697765.449653"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=1311&amp;EndingColumnNumber=30&amp;EndingLineNumber=34&amp;StartingColumnNumber=22&amp;StartingLineNumber=34&amp;Timestamp=540698735.969448"
          selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=19&amp;CharacterRangeLoc=1322&amp;EndingColumnNumber=19&amp;EndingLineNumber=35&amp;StartingColumnNumber=0&amp;StartingLineNumber=35&amp;Timestamp=540697765.449795"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=19&amp;CharacterRangeLoc=1322&amp;EndingColumnNumber=19&amp;EndingLineNumber=35&amp;StartingColumnNumber=0&amp;StartingLineNumber=35&amp;Timestamp=540698735.969736"
          selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=1594&amp;EndingColumnNumber=26&amp;EndingLineNumber=41&amp;StartingColumnNumber=14&amp;StartingLineNumber=41&amp;Timestamp=540697765.449939"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=1594&amp;EndingColumnNumber=26&amp;EndingLineNumber=41&amp;StartingColumnNumber=14&amp;StartingLineNumber=41&amp;Timestamp=540698735.969902"
          selectedRepresentationIndex = "1"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=1534&amp;EndingColumnNumber=19&amp;EndingLineNumber=40&amp;StartingColumnNumber=14&amp;StartingLineNumber=40&amp;Timestamp=540697765.450087"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=1534&amp;EndingColumnNumber=19&amp;EndingLineNumber=40&amp;StartingColumnNumber=14&amp;StartingLineNumber=40&amp;Timestamp=540698735.970033"
          selectedRepresentationIndex = "1"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1429&amp;EndingColumnNumber=24&amp;EndingLineNumber=39&amp;StartingColumnNumber=14&amp;StartingLineNumber=39&amp;Timestamp=540697765.450228"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1429&amp;EndingColumnNumber=24&amp;EndingLineNumber=39&amp;StartingColumnNumber=14&amp;StartingLineNumber=39&amp;Timestamp=540698735.970208"
          selectedRepresentationIndex = "1"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=19&amp;CharacterRangeLoc=2466&amp;EndingColumnNumber=23&amp;EndingLineNumber=71&amp;StartingColumnNumber=4&amp;StartingLineNumber=71&amp;Timestamp=540697765.450371"
-         selectedRepresentationIndex = "1"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1027&amp;EndingColumnNumber=31&amp;EndingLineNumber=28&amp;StartingColumnNumber=21&amp;StartingLineNumber=28&amp;Timestamp=540697765.450514"
-         selectedRepresentationIndex = "2"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1085&amp;EndingColumnNumber=30&amp;EndingLineNumber=29&amp;StartingColumnNumber=21&amp;StartingLineNumber=29&amp;Timestamp=540697765.450659"
-         selectedRepresentationIndex = "2"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=1141&amp;EndingColumnNumber=26&amp;EndingLineNumber=30&amp;StartingColumnNumber=21&amp;StartingLineNumber=30&amp;Timestamp=540697765.450803"
-         selectedRepresentationIndex = "2"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=1339&amp;EndingColumnNumber=22&amp;EndingLineNumber=35&amp;StartingColumnNumber=17&amp;StartingLineNumber=35&amp;Timestamp=540697765.450946"
-         selectedRepresentationIndex = "2"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=1314&amp;EndingColumnNumber=0&amp;EndingLineNumber=35&amp;StartingColumnNumber=25&amp;StartingLineNumber=34&amp;Timestamp=540697765.451089"
-         selectedRepresentationIndex = "2"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1254&amp;EndingColumnNumber=26&amp;EndingLineNumber=33&amp;StartingColumnNumber=17&amp;StartingLineNumber=33&amp;Timestamp=540697765.451233"
-         selectedRepresentationIndex = "1"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1217&amp;EndingColumnNumber=30&amp;EndingLineNumber=32&amp;StartingColumnNumber=21&amp;StartingLineNumber=32&amp;Timestamp=540697765.4513789"
-         selectedRepresentationIndex = "2"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1432&amp;EndingColumnNumber=27&amp;EndingLineNumber=39&amp;StartingColumnNumber=17&amp;StartingLineNumber=39&amp;Timestamp=540697765.451522"
-         selectedRepresentationIndex = "0"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=1597&amp;EndingColumnNumber=29&amp;EndingLineNumber=41&amp;StartingColumnNumber=17&amp;StartingLineNumber=41&amp;Timestamp=540697765.451668"
+         documentLocation = "file:///Users/global/Documents/Tried%20Examples/HackerRank/Swift/Simple%20Array%20Sum.playground#CharacterRangeLen=19&amp;CharacterRangeLoc=2425&amp;EndingColumnNumber=23&amp;EndingLineNumber=71&amp;StartingColumnNumber=4&amp;StartingLineNumber=71&amp;Timestamp=540698735.9703439"
          selectedRepresentationIndex = "1"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>

@@ -61,13 +61,13 @@ extension String {
         return sumStr
     }
 }
+
 extension Array  where Element == String {
     
     func sum() -> String {
         var sumValue : String = "0"
         for i in 0..<self.count {
 
-            let currentStrValue = self[i]
             //Add two values
             sumValue = self[i] ++ sumValue
         }
@@ -81,4 +81,4 @@ let n = 6
 var str = "338 65 713 595 428 610 728 573 871 868".components(separatedBy: " ")
 let result = str.sum()
 
-
+//0.10669
